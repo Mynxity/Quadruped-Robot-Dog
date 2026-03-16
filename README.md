@@ -6,4 +6,4 @@
 
 ---
 ### Assembly 1 Drawing 1
-[View Technical Drawing: Assembly 1 Drawing 1.pdf](Assembly%201%20Drawing%201.pdf)
+![Assembly 1 Drawing 1](Assembly%201%20Drawing%201.png)
