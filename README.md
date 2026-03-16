@@ -15,3 +15,4 @@
  - 1x Raspberry Pi Camera [https://www.digikey.com/en/products/detail/raspberry-pi/SC1223/17278639?gclsrc=aw.ds&gad_source=1&gad_campaignid=20243136172&gbraid=0AAAAADrbLlgJmrMh5MuUZrqvcBRc9jtSR&gclid=CjwKCAjw1N7NBhAoEiwAcPchp463X3dROfjnkDEnrmmy9mdk_pux6PhiWlwTxhwa-7qpMYSAmV3EcBoC2BoQAvD_BwE]
  - 1x PCA9685 Servo Controller
  - 2x HC_SR04 Motion Sensors
+ - 3mm Screws of Various Length
